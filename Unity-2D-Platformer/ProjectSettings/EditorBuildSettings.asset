@@ -17,7 +17,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PC2D/Scenes/Slopes 2.unity
     guid: fbffffaf6b67b1348bd9560efc0bec93
-  - enabled: 1
-    path: Assets/PC2D/Scenes/Lose.unity
-    guid: 2e9b8fde79c3d8043b75eaee1d9141e1
   m_configObjects: {}

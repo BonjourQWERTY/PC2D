@@ -645,15 +645,7 @@ public class PlatformerMotor2D : MonoBehaviour
     /// </summary>
     public Vector2 slopeNormal;
     
-    private void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.Escape))
-        {
-            SceneManager.LoadScene(0);
-        }
-        
-
-    }
+    
     /// <summary>
     /// Call this to have the GameObject try to jump, once called it will be handled in the FixedUpdate tick. The y axis is
     /// considered jump.

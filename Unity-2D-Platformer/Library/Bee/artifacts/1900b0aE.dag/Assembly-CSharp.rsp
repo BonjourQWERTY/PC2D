@@ -377,6 +377,7 @@
 "Assets/PC2D/Scripts/MainMenu.cs"
 "Assets/PC2D/Scripts/MenuWastedRestart.cs"
 "Assets/PC2D/Scripts/MovingPlatformMotor2D.cs"
+"Assets/PC2D/Scripts/pause_menu.cs"
 "Assets/PC2D/Scripts/PlatformerAnimation2D.cs"
 "Assets/PC2D/Scripts/PlatformerMotor2D.cs"
 "Assets/PC2D/Scripts/PlayerController2D.cs"
