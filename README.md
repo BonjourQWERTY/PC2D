@@ -7,7 +7,7 @@
 #### Список использованных технологий: 
 #### Unity 2021(.Animation, .SceneManagement,.SpriteEditor ),Adobe Photoshop 2023, pain.net, Visual Studio 2019.
 ==========================================================================
-#### Скриноты:
+#### Скриншоты:
 #### ![Ninja](https://github.com/BonjourQWERTY/PC2D/blob/main/Unity-2D-Platformer/Assets/PC2D/Sprites/Ninja.psd)
 ==========================================================================
 #### Возможности проекта:
