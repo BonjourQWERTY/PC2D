@@ -22,4 +22,13 @@ public class VolumeValue : MonoBehaviour
     {
         musicVolume = vol;
     }
+    private void Save()
+    {
+        PlayerPrefs.SetFloat("volume", musicVolume);
+    }
+
+    private void Load()
+    {
+        musicVolume = PlayerPrefs.GetFloat("volume", musicVolume);
+    }
 }
